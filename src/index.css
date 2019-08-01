@@ -12,11 +12,3 @@ code {
     monospace;
 }
 
-.cv {
-  display: flex;
-  columns: 2;
-}
-
-.paragraph{
-  margin: 2em 0 2em 0;
-}
